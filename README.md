@@ -3,7 +3,7 @@ Project info and results can be found at:
 
 ## Data
 
-Each of the following were downloaded and placed in the root directory:
+Download each of the following, and place in the root directory:
 
 * 990 Efile Operational Data 2009 - 2015 - https://s3.us-east-2.amazonaws.com/datadive-gates92y-seattle/Project+3+-+Form+990+Data/2+-+Clean+Data/990Efile+Operational+Data+2009+to+2015.csv
 * Data Dictionary - https://s3.us-east-2.amazonaws.com/datadive-gates92y-seattle/Project+3+-+Form+990+Data/2+-+Clean+Data/Data+Dictionary+Project+990+August+2017.xlsx

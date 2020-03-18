@@ -3,3 +3,10 @@ app/dist
 .DS_Store
 .ipynb_checkpoints/
 package-lock.json
+
+# giant input files
+990Efile+Operational+Data+2009+to+2015.csv
+Data+Dictionary+Project+990+August+2017.xlsx
+NTEE+Classification.csv
+Sample_Program_Service_Data.csv
+giving_tuesday_tweets.csv
